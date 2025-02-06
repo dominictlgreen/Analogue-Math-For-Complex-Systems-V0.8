@@ -1,5 +1,6 @@
 
-# Magnetic Tape & Toroidal Processing: The Future of Efficient Data Handling
+# Magnetic Tape & Toroidal Processing: 
+## The Future of Efficient Data Handling
 
 ## Overview
 
